@@ -1,0 +1,14 @@
+.item {
+    /* background-color: #16bd86; */
+    margin-block: 20px;
+    text-align: center;
+    color: white;
+}
+
+.itemdiv {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: #16bd86 ;
+    
+}
